@@ -1,0 +1,23 @@
+{
+  "name": "familyexpenseefficiency",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shbhmore/FamilyExpenseEfficiency.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shbhmore/FamilyExpenseEfficiency/issues"
+  },
+  "homepage": "https://github.com/shbhmore/FamilyExpenseEfficiency#readme",
+  "devDependencies": {
+    "nodeman": "^1.1.2"
+  }
+}
